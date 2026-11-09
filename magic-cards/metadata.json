@@ -1,0 +1,8 @@
+{
+  "name": "Remix Flashcard Adventure",
+  "description": "Interactive 3D vocabulary flashcard game with voice narration, quest rooms, and animated cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
